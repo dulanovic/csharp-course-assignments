@@ -1,0 +1,5 @@
+C:\Users\Korisnik\Desktop\PJ_priprema\Solution02_Aerodrom\Biblioteka\bin\Debug\Biblioteka.dll
+C:\Users\Korisnik\Desktop\PJ_priprema\Solution02_Aerodrom\Biblioteka\bin\Debug\Biblioteka.pdb
+C:\Users\Korisnik\Desktop\PJ_priprema\Solution02_Aerodrom\Biblioteka\obj\Debug\Biblioteka.csprojResolveAssemblyReference.cache
+C:\Users\Korisnik\Desktop\PJ_priprema\Solution02_Aerodrom\Biblioteka\obj\Debug\Biblioteka.dll
+C:\Users\Korisnik\Desktop\PJ_priprema\Solution02_Aerodrom\Biblioteka\obj\Debug\Biblioteka.pdb

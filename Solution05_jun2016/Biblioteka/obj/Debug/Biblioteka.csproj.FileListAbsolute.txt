@@ -1,0 +1,5 @@
+C:\Users\Korisnik\Desktop\PJ_priprema\Solution05_jun2016\Biblioteka\bin\Debug\Biblioteka.dll
+C:\Users\Korisnik\Desktop\PJ_priprema\Solution05_jun2016\Biblioteka\bin\Debug\Biblioteka.pdb
+C:\Users\Korisnik\Desktop\PJ_priprema\Solution05_jun2016\Biblioteka\obj\Debug\Biblioteka.dll
+C:\Users\Korisnik\Desktop\PJ_priprema\Solution05_jun2016\Biblioteka\obj\Debug\Biblioteka.pdb
+C:\Users\Korisnik\Desktop\PJ_priprema\Solution05_jun2016\Biblioteka\obj\Debug\Biblioteka.csprojResolveAssemblyReference.cache

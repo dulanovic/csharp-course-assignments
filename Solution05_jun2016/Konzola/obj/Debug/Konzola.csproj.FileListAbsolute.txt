@@ -1,0 +1,8 @@
+C:\Users\Korisnik\Desktop\PJ_priprema\Solution05_jun2016\Konzola\bin\Debug\Konzola.exe.config
+C:\Users\Korisnik\Desktop\PJ_priprema\Solution05_jun2016\Konzola\bin\Debug\Konzola.exe
+C:\Users\Korisnik\Desktop\PJ_priprema\Solution05_jun2016\Konzola\bin\Debug\Konzola.pdb
+C:\Users\Korisnik\Desktop\PJ_priprema\Solution05_jun2016\Konzola\bin\Debug\Biblioteka.dll
+C:\Users\Korisnik\Desktop\PJ_priprema\Solution05_jun2016\Konzola\bin\Debug\Biblioteka.pdb
+C:\Users\Korisnik\Desktop\PJ_priprema\Solution05_jun2016\Konzola\obj\Debug\Konzola.csprojResolveAssemblyReference.cache
+C:\Users\Korisnik\Desktop\PJ_priprema\Solution05_jun2016\Konzola\obj\Debug\Konzola.exe
+C:\Users\Korisnik\Desktop\PJ_priprema\Solution05_jun2016\Konzola\obj\Debug\Konzola.pdb
